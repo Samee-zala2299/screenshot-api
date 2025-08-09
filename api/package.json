@@ -2,7 +2,7 @@
   "name": "screenshot-api",
   "version": "1.0.0",
   "dependencies": {
-    "chrome-aws-lambda": "^19.1.1",
+    "chrome-aws-lambda": "^10.1.0",
     "puppeteer-core": "^23.0.0"
   }
 }
